@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Jupyter / Colab
+*.ipynb_checkpoints
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Credenciais e configs sensíveis (nunca versionar)
+*.env
+credentials.json
+*.key
+
+# Saídas temporárias
+*.log
+*.tmp
